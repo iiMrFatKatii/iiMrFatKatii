@@ -5,7 +5,6 @@ I am a computer science and mathematics student with experience in data engineer
 
 - 🔭 I’m currently working on Financial Budget App
 - 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about my cat
 - 📫 How to reach me: jpedrosa675@gmail.com
 - 😄 Pronouns: he/him/his
